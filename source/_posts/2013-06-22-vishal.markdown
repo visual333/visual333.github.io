@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "vishal"
+title: "visual333"
 date: 2013-06-22 16:08
 comments: true
 categories: 
 ---
 
 hello everyone
-{% img http://t0.gstatic.com/images?q=tbn:ANd9GcRhp-J2hOh05LU8sRjdtOT2xa6bfaE_hOEhE38wp03KzT8HhLKM %}
+{% img http://wpsauce.com/wp-content/uploads/2012/02/microsoftstoreindiaevilhacked.jpg %}
 
 {% codeblock Here's an example .rvmrc file. lang:ruby %}
-rvm ruby-1.8.6 # ZOMG, yupeeeeeee i m here yeeeeeeee?
+Is This Realy A hacker Thing
 {% endcodeblock %}
 
 
