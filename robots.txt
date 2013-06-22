@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://visual333.github.io/sitemap.xml 
